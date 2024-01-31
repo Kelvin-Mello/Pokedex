@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "Pokedex",
+        "pokemon",
+        "pokemons"
+    ],
+    "cSpell.language": "en,pt,pt-BR",
+    "cSpell.enableFiletypes": [
+        "!css",
+        "!html"
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#620113",
+        "titleBar.activeBackground": "#8A021B",
+        "titleBar.activeForeground": "#FFFBFC"
+    }
+}
